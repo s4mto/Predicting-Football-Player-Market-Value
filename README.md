@@ -26,11 +26,11 @@ models/ – Trained model artifacts and predictions in pkl and csv files
 You can access them all via Google Drive:
 👉 [Download from Google Drive](https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing)
 
-After downloading, unzip and place the folders into your project root directory.
+After downloading, unzip and place the folders into your project.
 
 ## Repository Structure
 ```
-project-root/
+project/
 ├── data/ # Cleaned datasets and original datasets
 ├── notebooks/ # Jupyter notebooks for EDA, modeling, and evaluation
 ├── models/ # Trained model artifacts and predictions in pkl and csv files
