@@ -14,6 +14,17 @@ Key contributions include:
 - An ablation study comparing the predictive value of different feature groups.
 - Time series forecasting and residual analysis for advanced valuation insights.
 
+📦 Accessing Data, Visualizations & Models
+Due to GitHub's file size limitations, the following folders are hosted externally:
+
+data/ – Cleaned datasets and original datasets
+visualizations/ – Plots and images used in the thesis (t-SNE, residuals, etc.) and contextual performance score's plots of +5000 players (normalized and raw)
+models/ – Trained model artifacts and predictions in pkl and csv files
+
+You can access them all via Google Drive:
+👉 [Download from Google Drive]([https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing](https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing))
+
+After downloading, unzip and place the folders into your project root directory.
 
 ## Repository Structure
 ```
