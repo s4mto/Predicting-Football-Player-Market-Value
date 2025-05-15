@@ -18,9 +18,9 @@ Key contributions include:
 ## Repository Structure
 ```
 project-root/
-├── data/ # Cleaned datasets, not included in this repo
+├── data/ # Cleaned datasets and original datasets
 ├── notebooks/ # Jupyter notebooks for EDA, modeling, and evaluation
-├── models/ # Trained model artifacts and predictions
-├── visualizations/ # Plots and images used in the thesis (t-SNE, residuals, etc.)
+├── models/ # Trained model artifacts and predictions in pkl and csv files
+├── visualizations/ # Plots and images used in the thesis (t-SNE, residuals, etc.) and contextual performance score's plots of +5000 players (normalized and raw)
 └── README.md # This file
 ```
