@@ -14,12 +14,13 @@ Key contributions include:
 - An ablation study comparing the predictive value of different feature groups.
 - Time series forecasting and residual analysis for advanced valuation insights.
 
-## Repository Structure
 
 ## Repository Structure
+```
 project-root/
 ├── data/ # Cleaned datasets, not included in this repo
 ├── notebooks/ # Jupyter notebooks for EDA, modeling, and evaluation
 ├── models/ # Trained model artifacts and predictions
 ├── visualizations/ # Plots and images used in the thesis (t-SNE, residuals, etc.)
 └── README.md # This file
+```
