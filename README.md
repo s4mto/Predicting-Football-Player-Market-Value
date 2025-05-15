@@ -16,8 +16,10 @@ Key contributions include:
 
 ## Repository Structure
 
-├── data/ # Preprocessed and raw datasets (not uploaded here)
+## Repository Structure
+project-root/
+├── data/ # Cleaned datasets, not included in this repo
 ├── notebooks/ # Jupyter notebooks for EDA, modeling, and evaluation
-├── models/ # Trained models, results, and output files
-├── visualizations/ # Figures used in the thesis (e.g., t-SNE, residual plots)
+├── models/ # Trained model artifacts and predictions
+├── visualizations/ # Plots and images used in the thesis (t-SNE, residuals, etc.)
 └── README.md # This file
