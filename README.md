@@ -22,7 +22,7 @@ visualizations/ – Plots and images used in the thesis (t-SNE, residuals, etc.)
 models/ – Trained model artifacts and predictions in pkl and csv files
 
 You can access them all via Google Drive:
-👉 [Download from Google Drive]([https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing](https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing))
+👉 [Download from Google Drive](https://drive.google.com/drive/folders/1-QEayJJ_bZqjIZ2KFzCOH4hBB6rUDEeh?usp=sharing)
 
 After downloading, unzip and place the folders into your project root directory.
 
